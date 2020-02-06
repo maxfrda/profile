@@ -48,7 +48,7 @@ a:hover{
 .card-white {
 
   background-color: white;
-  width: 30%;
+  width: 60%;
   margin: 20px auto;
   padding: 30px;
   border: 1px solid lightgray;
@@ -61,11 +61,12 @@ a:hover{
 .button {
   background-color: white;
   padding: 10px;
-  border-radius: 10%;
+  border-radius: 10px;
   border: 2px  solid grey;
   border-color:rgb(200, 50, 50);
   text-decoration: none;
-  color: rgb(200, 50, 50) ;
+  color: rgb(200, 50, 50);
+  margin:10px;
 }
 
 
