@@ -59,12 +59,15 @@ a:hover{
 }
 
 .button {
-  background-color: rgb(50, 50, 200);
+  background-color: white;
   padding: 10px;
   border-radius: 10%;
+  border: 2px  solid grey;
+  border-color:rgb(200, 50, 50);
   text-decoration: none;
-  color: white;
+  color: rgb(200, 50, 50) ;
 }
+
 
 .button:hover {
 color:white;
